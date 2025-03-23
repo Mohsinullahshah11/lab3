@@ -1,7 +1,7 @@
 # Week 4: => Lab 8: Real-World Applications of Lists
 # a Python program that manages a list of tasks (adding, removing, displaying) with a menu-driven interface.
 toDoList = []
-
+ 
 while True:
 
     print('\n============== Menu ============== \n')

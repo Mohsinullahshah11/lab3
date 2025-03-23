@@ -1,6 +1,6 @@
 # Week 3 => Lab 6: Working with Nested Lists
-# Write a program to find the sum of all elements in a nested list.
-
+# Write a program to find the sum of all elements in a nested list. 
+ 
 
 # Week 2 => Lab 4: Iterating Over Lists
 # Write a program to print each element of a list with its index using enumerate.

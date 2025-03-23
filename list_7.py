@@ -1,5 +1,5 @@
 # Week 4: => Lab 7: List Performance & Optimization
-# Use deque to implement a queue where elements are added and removed efficiently.
+# Use deque to implement a queue where elements are added and removed efficiently. 
 
 # Append to the right    d.append(5)                Adds 5 to the right end
 # Append to the left     d.appendleft(0)            Adds 0 to the left end
