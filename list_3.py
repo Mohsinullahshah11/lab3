@@ -1,3 +1,7 @@
+# Week 2 => Lab 3: Common List Methods
+# Create a list and perform append, extend, insert, remove, pop, sort, and reverse operations.
+
+
 # Create a list
 fruits = ['apple', 'banana', 'cherry']
 print("Initial List:", fruits)

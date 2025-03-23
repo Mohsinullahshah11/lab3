@@ -1,8 +1,10 @@
-nested_list = [[1, 2, 3], [4, 5], [6, 7, 8, 9]]
+# Week 2 => Lab 4: Iterating Over Lists
+# Write a program to print each element of a list with its index using enumerate.
 
-total_sum = 0
-for sublist in nested_list:
-    for num in sublist:
-        total_sum += num
+fruits = ['apple', 'banana', 'cherry', 'mango', 'orange', 'grapes', 'pineapple', 'kiwi', 'strawberry', 'watermelon']
 
-print("\nSum of all elements in the nested list:",'\n')
+print()
+for index , fruit in enumerate(fruits):
+    print(f"fruit name is {fruit} at index {index}")
+
+print()
